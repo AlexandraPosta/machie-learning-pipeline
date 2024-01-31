@@ -1,5 +1,4 @@
-# machie-learning-pipeline
-Machine Learning Pipeline created for COMP3611.
+# machie-learning-pipeline-cancer-classidication.
 
 Use the dataset to:
 - Filter the data
@@ -8,5 +7,4 @@ Use the dataset to:
     - OLS Linear Regression Model
     - Lasso and Ridge Regressions Models
     - Random Forest Model
-    
 - Optimize some hyperparameters using GridSearch
